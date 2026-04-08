@@ -1,0 +1,4 @@
+app:
+name: myapp
+vestion: 1.0.0
+env: production
