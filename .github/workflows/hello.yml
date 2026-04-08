@@ -3,8 +3,8 @@ name: Zdarova bobiki
 on: [push]
 
 jobs:
-hello:
-runs-on: ubuntu-latest
-steps:
-- name: Salam vsem nashim
-run: echo "Zdarova banditi"
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Salam vsem nashim
+        run: echo "Zdarova banditi"
